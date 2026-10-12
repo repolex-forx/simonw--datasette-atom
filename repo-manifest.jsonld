@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-atom/commit/907ddfa520dd438a0181eb100954c6ac2de04265",
       "git:hexsha": "907ddfa520dd438a0181eb100954c6ac2de04265",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.11a0"
     },
     {
